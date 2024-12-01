@@ -48,7 +48,6 @@ build/
 # Sensitive configuration
 .env
 *.env
-*.properties
 application.yml
 application-*.yml
 
